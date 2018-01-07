@@ -1,0 +1,7 @@
+applications:
+- name: cpg-apigateway
+  path: ./applications/cpg-apigateway/build/libs/cpg-apigateway.jar
+  host: cpg-apigateway
+  services:
+  - cpgrabbit
+  - cpgregistry

@@ -1,0 +1,6 @@
+applications:
+- name: fraudcheck-service
+  path: ./applications/fraudcheck-service/build/libs/fraudcheck-service.jar
+  host: fraudcheck-service
+  services:
+  - cpgregistry

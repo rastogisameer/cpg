@@ -34,7 +34,7 @@ public class Application {
 
         return new RestTemplate();
     }
-    @Bean
+    //@Bean
     public ConnectionFactory connectionFactory(){
         CachingConnectionFactory factory = new CachingConnectionFactory();
         factory.setUri(rabbitUri);

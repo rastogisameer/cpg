@@ -23,14 +23,14 @@ public class APIGateway {
     @Value("${rabbitmq.request-queue}")
     private String requestQueue;
 
-    private RabbitTemplate rabbitTemplate;
+    //private RabbitTemplate rabbitTemplate;
 
     private AuthenticationProcessor authProcessor;
 
-    public APIGateway(RestOperations restOperations, ConnectionFactory factory, AuthenticationProcessor authProcessor){
+    public APIGateway(RestOperations restOperations, AuthenticationProcessor authProcessor){
 
         this.restOperations = restOperations;
-        this.rabbitTemplate = new RabbitTemplate(factory);
+        //this.rabbitTemplate = new RabbitTemplate(factory);
         this.authProcessor = authProcessor;
 
     }

@@ -1,0 +1,6 @@
+applications:
+- name: amex-processor
+  path: ./applications/amex-processor/build/libs/amex-processor.jar
+  host: amex-processor
+  services:
+  - cpgrabbit
