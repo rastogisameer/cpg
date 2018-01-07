@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="amex-processor_main" target="1.8" />
+      <module name="amex-processor_test" target="1.8" />
+      <module name="amex-server_main" target="1.8" />
+      <module name="amex-server_test" target="1.8" />
+      <module name="amex_main" target="1.8" />
+      <module name="amex_test" target="1.8" />
+      <module name="apigateway-server_main" target="1.8" />
+      <module name="apigateway-server_test" target="1.8" />
+      <module name="apigateway_main" target="1.8" />
+      <module name="apigateway_test" target="1.8" />
+      <module name="applications_main" target="1.8" />
+      <module name="applications_test" target="1.8" />
+      <module name="components_main" target="1.8" />
+      <module name="components_test" target="1.8" />
+      <module name="cpg-apigateway_main" target="1.8" />
+      <module name="cpg-apigateway_test" target="1.8" />
+      <module name="eureka-server_main" target="1.8" />
+      <module name="eureka-server_test" target="1.8" />
+      <module name="eurekaserver_main" target="1.8" />
+      <module name="eurekaserver_test" target="1.8" />
+      <module name="fraudcheck-servic_main" target="1.8" />
+      <module name="fraudcheck-servic_test" target="1.8" />
+      <module name="fraudcheck-service_main" target="1.8" />
+      <module name="fraudcheck-service_test" target="1.8" />
+      <module name="fraudcheck_main" target="1.8" />
+      <module name="fraudcheck_test" target="1.8" />
+      <module name="integration-test_main" target="1.8" />
+      <module name="integration-test_test" target="1.8" />
+      <module name="plat-eurekaserver_main" target="1.8" />
+      <module name="plat-eurekaserver_test" target="1.8" />
+      <module name="plat_main" target="1.8" />
+      <module name="plat_test" target="1.8" />
+      <module name="platform-s_main" target="1.8" />
+      <module name="platform-s_test" target="1.8" />
+      <module name="platform-services-eurekaserver_main" target="1.8" />
+      <module name="platform-services-eurekaserver_test" target="1.8" />
+      <module name="platform-services_main" target="1.8" />
+      <module name="platform-services_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+rabbitmq:
+  uri: amqp://guest:guest@localhost
+  request-queue: request-queue
+  response-queue: response-queue
+
+spring:
+  cloud:
+    stream:
+      bindings:
+        input:
+          destination: request-queue

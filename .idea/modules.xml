@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/amex-processor/amex-processor.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/amex-processor/amex-processor.iml" group="applications/amex-processor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/amex-processor/amex-processor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/amex-processor/amex-processor_main.iml" group="applications/amex-processor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/amex-processor/amex-processor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/amex-processor/amex-processor_test.iml" group="applications/amex-processor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/applications.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/applications.iml" group="applications" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/applications_main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/applications_main.iml" group="applications" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/applications_test.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/applications_test.iml" group="applications" />
+      <module fileurl="file://$PROJECT_DIR$/cpg.iml" filepath="$PROJECT_DIR$/cpg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/cpg-apigateway/cpg-apigateway.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/cpg-apigateway/cpg-apigateway.iml" group="applications/cpg-apigateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/cpg-apigateway/cpg-apigateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/cpg-apigateway/cpg-apigateway_main.iml" group="applications/cpg-apigateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/cpg-apigateway/cpg-apigateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/cpg-apigateway/cpg-apigateway_test.iml" group="applications/cpg-apigateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server.iml" group="platform-services/eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_main.iml" group="platform-services/eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/eureka-server/eureka-server_test.iml" group="platform-services/eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/fraudcheck-service/fraudcheck-service.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/fraudcheck-service/fraudcheck-service.iml" group="applications/fraudcheck-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/fraudcheck-service/fraudcheck-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/fraudcheck-service/fraudcheck-service_main.iml" group="applications/fraudcheck-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/fraudcheck-service/fraudcheck-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/fraudcheck-service/fraudcheck-service_test.iml" group="applications/fraudcheck-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/platform-services.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services.iml" group="platform-services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/platform-services_main.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services_main.iml" group="platform-services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform-services/platform-services_test.iml" filepath="$PROJECT_DIR$/.idea/modules/platform-services/platform-services_test.iml" group="platform-services" />
+    </modules>
+  </component>
+</project>

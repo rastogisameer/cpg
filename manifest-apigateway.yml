@@ -1,0 +1,4 @@
+applications:
+- name: apigateway
+  path: ./applications/apigateway/build/libs/apigateway.jar
+  host: cpg-apigateway

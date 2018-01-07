@@ -1,0 +1,27 @@
+apply plugin:"org.springframework.boot"
+apply plugin: "io.spring.dependency-management"
+
+
+dependencyManagement{
+    imports{
+        mavenBom "org.springframework.cloud:spring-cloud-dependencies:$springCloudDependenciesVersion"
+        mavenBom "io.pivotal.spring.cloud:spring-cloud-services-dependencies:$springCloudServicesVersion"
+    }
+}
+
+dependencies {
+    compile "org.springframework.boot:spring-boot-starter-web"
+
+    compile "org.springframework:spring-web:$springVersion"
+
+    compile "org.springframework.boot:spring-boot-starter-actuator"
+    compile "io.pivotal.spring.cloud:spring-cloud-services-starter-service-registry"
+
+    compile "org.springframework.cloud:spring-cloud-commons:1.1.8.RELEASE"
+
+    compile "org.springframework.cloud:spring-cloud-starter-stream-rabbit"
+    compile "org.springframework.cloud:spring-cloud-stream-binder-rabbit"
+
+    compile "org.springframework.boot:spring-boot-starter-amqp"
+    compile "org.springframework.integration:spring-integration-java-dsl"
+}
